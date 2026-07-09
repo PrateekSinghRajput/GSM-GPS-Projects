@@ -1,6 +1,8 @@
 # Arduino GPS Tracker with GSM & RF Alerts 🌍🛰️
 
 A versatile, Arduino-based GPS tracking system that provides real-time location data via SMS. This project integrates GPS tracking, GSM cellular communication, wireless RF remote control, and physical auditory alerts into a single robust security device. 
+<img width="1376" height="768" alt="11" src="https://github.com/user-attachments/assets/9726b991-c2c0-496b-a132-2821b3d40c00" />
+
 
 ## 🚀 Features
 * **Real-Time Location Tracking:** Uses the Neo-6M GPS module to fetch precise coordinates.
